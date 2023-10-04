@@ -35,7 +35,7 @@ h1 {
 }
 .nav-li {
     display: inline-block;
-    padding: 0 10px;
+    padding: 10px;
 }
 a {
     text-decoration: none;
@@ -68,10 +68,42 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 8px rgb(226, 214, 49) dashed;
+    border: 8px rgba(0, 0, 0, 0) dashed;
     padding: 8px;
     border-radius: 30px;
 }
+.nav-li2 {
+    display: inline-block;
+    margin: 5 auto;
+   margin-bottom: 10px;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+}
 h2, h3 {
     margin: 0px;
+}
+.content h1 {
+    color: rgb(41, 184, 209);
+}
+
+#portfolio {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#portfolio li {
+    background: rgb(41, 184, 209);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#portfolio li:hover {
+    background: #052a87a7;
+}
+
+#portfolio a {
+    text-decoration: none;
+    color: #ffffff;
 }
