@@ -91,10 +91,10 @@ let halleImage;
 let animationDetails = {};
 
 var collectableList = {
-  database: { image: "images/collectables/database.png" },
-  diamond: { image: "images/collectables/diamond-head.png" },
+  database: { image: "https://i.pinimg.com/originals/dd/87/a3/dd87a3ca8ed7d440d6f5d177fd68ad6f.png" },
+  diamond: { image: "https://i.pinimg.com/originals/c0/85/70/c08570283eded7d118f90055880fef1a.png" },
   grace: { image: "images/collectables/grace-head.png" },
   kennedi: { image: "images/collectables/kennedi-head.png" },
-  max: { image: "images/collectables/max-head.png" },
-  steve: { image: "images/collectables/steve-head.png" },
+  max: { image: "https://i.pinimg.com/originals/16/7d/3f/167d3f24db19a6cd58cb575d37144b42.png" },
+  steve: { image: "https://mario.wiki.gallery/images/thumb/f/f5/StarMK8.png/1200px-StarMK8.png" },
 };
