@@ -1,6 +1,10 @@
 
 body {
-  background-color: darkgreen;
+      height: 100vh;
+			background-size: 2000px 1000px;
+			background-repeat: no-repeat;
+      background-image: url(NintendoArt.png);
+  /*background-color: darkgreen*/
 }
 
 #board {
@@ -11,7 +15,7 @@ body {
 }
 
 #score, #highScore {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .snake, .apple {
