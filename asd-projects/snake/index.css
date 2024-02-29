@@ -36,6 +36,6 @@ body {
 }
 
 .apple {
-  background-color: red;
+  background-color: rgb(182, 40, 21);
   z-index: 1;
 }
